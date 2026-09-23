@@ -1,7 +1,7 @@
-**AI and robots for food at [KAIKAKU](https://kaikaku.ai/).**
+Founder of **[KAIKAKU](https://kaikaku.ai/)**, acquired by **SoftBank-backed REEF**.
 
-- **[Epicure](https://huggingface.co/spaces/Kaikaku/epicure-explorer):** ingredient embeddings trained on **4.14 million recipes**.
-- Built a bitcoin faucet with **150k daily users at 13**. Later led software in the **Austrian military**.
-- Angel in **50+ pre-seed rounds**, mostly founders building physical things.
+- **[Epicure](https://github.com/KAIKAKU-AI/epicure-mcp):** ingredient embeddings trained on **4.14 million recipes**, exposed through an MCP server.
+- **[FlavourBench](https://github.com/josefchen/flavourbench):** executable culinary reward maps for LLM evaluation and post-training.
+- **[Ready Cohorts](https://github.com/josefchen/ready-cohorts):** CUDA experiments on GPU-resident agent control and CPU/GPU placement.
 
-[Website](https://josef.cn/) · [Papers](https://josef.cn/research) · [Portfolio](https://josef.cn/investing)
+[Website](https://josef.cn/) · [Papers](https://josef.cn/research)
